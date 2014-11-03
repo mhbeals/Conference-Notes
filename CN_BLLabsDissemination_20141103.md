@@ -214,15 +214,63 @@ Using an interface to explore jokes that was not at all suitable (Sorry BL, have
 
 Questions:
 
+Suggestions:
+ + Could people just read it in using speech to text? Would also provide voice-over
+ + Stand-up Steam Punk Comedians 
+ 
+Would the Victorians have found them funny or were they always groaners?
+ + Reprint demonstrates they were popular
 
 ### Projects using British Library digital content and data ###
+
+#### Blurb ####
 
 The British Library Labs have been working with researchers around the world to enable them to make use of the Library's digital content / data; the session highlights some examples.
 
 ### Palimpsest: an Edinburgh Literary Cityscape ###
 Dr Beatrice Alex, Research Fellow in Text Mining, School of Informatics, University of Edinburgh 
 
+#### Blurb ####
+
 We are creating a literary cityscape through text mining vivid, evocative and dramatic extracts of Edinburgh-based literary works from the early modern period to the twentieth century. Palimpsest enables users to explore the dimensions of literary Edinburgh through their encounters with geo-located extracts of literary works either via the web resource or in the city streets via a smartphone or tablet. The project is producing an interactive website and database of Edinburgh - based literary texts which is revealing a range of cityscapes that will newly engage scholars and the public with the urban environment and its literature.
+
+#### Notes ####
+
+Aim: To (text) mine Edinburgh's literature
+
++ Genesis was Edinburgh picturesque --- geolocated extracts
++ Had to decided what can be considered "Edinburgh-ness'; a small extract? A whole text? Places that no longer exist?
++ Extract from **Trainspotting** "First time I've been able to put swear words on an academic slide"
++ Sources
+  + HathiTrust
+  + British Library Nineteenth Century books collection
+  + Gutenberg
+  + Oxord Text ARchive
+  + National Library of scotland data
+  + ECCO/EEBO
+  + Limited set of copyrighted material if author/publisher agrees
++ Workflow: Digitised documents --> Filtering --> Manual curation --> Text mining (Geoparser / Edinburgh Gazetteer)--> relational database -> User interface
++ Big Data in, Small Data out
++ Tasks
+  + Retrieve literary works
+  + Devise a method for identifying 'loco-specificity'
+  + Create a fine-grained location gazetteer for Edinburgh
++ FIRST though
+  + Common format
+  + Written English text
+  + Post-corrected automattically
+  + Linguisitically preprocessed
++ Curation choices
+  + No poetry
++ Point of text mining is always discovery
+  + Did find a few new works
++ Gazetteer Creation
+  + Need a local gazetteer by aggregating:
+    + OpenStreet MAp
+    + OS Locator
+    + RCAHMS and Historical Scotland    
+  + Literature on the Go App (map and text)
++ Human element really important to this sort of project
 
 ### Digital Music Lab: Analysing Big Music Data ###
 Daniel Wolff, Research Fellow for the Digital Music Lab project at the Music Informatics Research Group, City University London and Adam Tovell, Curator, Digital Music, British Library
