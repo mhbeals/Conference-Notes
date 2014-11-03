@@ -3,6 +3,10 @@
 
 ## Monday, 3 November 2014 ##
 
+### Alternative Notetakers ###
+
+James W. Baker, BL, https://gist.github.com/drjwbaker/fe66934864179ba7b401
+
 ### Keynote: Big Data, Small Data and Meaning: the conundrums of tool use in the humanities ###
 Tim Hitchcock, Professor of Digital History, University of Sussex
 
@@ -275,18 +279,63 @@ Aim: To (text) mine Edinburgh's literature
 ### Digital Music Lab: Analysing Big Music Data ###
 Daniel Wolff, Research Fellow for the Digital Music Lab project at the Music Informatics Research Group, City University London and Adam Tovell, Curator, Digital Music, British Library
 
+#### Blurb ####
 The Digital Music Lab is developing research methods and software infrastructure for exploring and analysing large-scale music collections, and to provide researchers and users with datasets and computational tools to analyse music audio, scores and metadata. The team will present some of their initial findings including some startling visualisations.
+
+#### Notes ####
+
++ In terms of mining, sound had always been more difficult technologically, but that is now changing
++ Aims:
+  + Develop and evaluate music research methods for Big Data
+  + Develop and infrastructure
+  + Develop tools for large-scale computational musicology
+  + Use and produce Big Music Data Sets
++ Visualisation tools exist but have largely been used for small scale projects
+  + Beginning to have large scale: automatic identification etc
++ Musicology Research
+  + Changes in performance
+  + Influence of composer / artist
+  + Relation to genre
++ Digital research combining musicology and music infomatics
++ Why the BL?
+  + Over 3 million unique recordings
+  + Wide ranging: popular, world and traditional music
+  + Detailed metadata
+  + Has legal framework for access
+  + Also uses CHARM and ILikeMusic
++ Technical aspects that were wanted
+  + Automatic analysis
+  + Structural analysis
+  + Analysing styles and trends over time
+  + New similarity metrics (performance-based)
+  + Work across different heterogeneous collections
+    + ILikeMusic: Chord detection
+    + CHARM: Instrumentation, MIDI-Scale transcription, High-res transcription
+    + BL: Key detection ,Chord detect, speech/music detection
+  + Utilise external metadata and annotations (MHB: yes! very important)
+  + Processed over 1million pieces in 6 weeks
+  + Visualisations of commonalities.  No C# chords in Blues?
++ Outputs
+  + Web interface to make dervived data available globally
+  + Aims to be scalable, sustainable (open source) and reproduceable
+  
+Questions:
+
+Wouldn't you need contextual details to prove correlation / causation?
+  + Yes.  But the output is to help you ask these questions (not provide answers) (MHB: DH is about asking interesting questions)
+  
 
 ### Measuring the value of public domain data ###
 Peter Balman , Software Developer and Winner of the Technology Strategy Board and British Library's Innovation Challenge (IC Tomorrow) -The value of public-domain data.
 
 Peter will talk about a tool he is developing that will proactively search for British Library's digital content on the web and give a detailed breakdown of where, how and by whom it is being used. Having visibility on this kind of data could help the BL make choices around targeting users by releasing similar content and encourage further use and deeper engagement within these groups.
 
+
+
 ### The surprising tale of the mechanical curator and 1 million images ###
 Mahendra Mahey, Manager and Ben O'Steen, Technical Lead of the British Library Labs
 
 The Labs team will tell the surprising story of one digital collection that the Library holds and how their work with it produced results no one expected, not even them! They will show how and - more importantly - why they created the ‘Mechanical Curator’ and uploaded over a million illustrations taken from books onto Flickr. These images have stirred great interest from artists, researchers and the general public, garnering 200 million views and over 100,000 descriptive tags in under a year. The team will provide some examples of the creative and academic work that the collection has inspired as well as showing the impact the release has had.
-
 
 ### What the Library has learned from the British Library Labs project and how it will be supporting Digital Scholars in the future ###
 Adam Farquhar, Head of Digital Scholarship and Principal Investigator of the British Library Labs project
