@@ -15,7 +15,7 @@ While 'big data' has grabbed the headlines in recent years, the creation of new 
 
 + We must remember the 'power of the particular' in macroscopic analyses
   + Big Data falls down when it fails to refocus
-  + TH worries that we are losing our ability to see detail in a way that make Thompson et al so compellling. 
+  + TH worries that we are losing our ability to see detail in a way that make Thompson et al so compelling. 
 
 + Humanities scholars should have self-confidence in their abilities
   + We can do certain things STEM scholars don't do very well
@@ -23,7 +23,7 @@ While 'big data' has grabbed the headlines in recent years, the creation of new 
   + Big data supposedly let's you 'get away with dirty data'
   + We need tools to do a close reading of data that makes up big data
   
-+ Radical contextualisation
++ Radical conceptualisation
   + Understand the history and usage of a word so we can recognise when it is used in a way that is new or would look odd to contemporary readers
   + "Where is the tool to do that? Where is the project?"
 
@@ -40,7 +40,7 @@ Background to the problem
   + Library contain thousands of literary and historical texts
   + People expect to be able to access them on their ipads!
 + Digitisation is an obvious first step
-  +'Bilwidering' number of thumbnails
+  +'Bewildering' number of thumbnails
 + Can attach text to page image (on top)
   + OCR 
   + hard to fix errors
@@ -82,11 +82,138 @@ Method
 + update anchors whenever words get out of alignment 
 + last resort: manually draw polygon around words
 
+Questions:
+
+Is your software available for integration into open-source projects like (wikisource)?
++ Yes, but without GUI it won't be that useful
+  ++ They would want their own
++ Yes. They could go and do what they like with it.  GPL license on Github.
+
+So good that you are doing this / disseminating this so we don't reinvent the world
++ Thanks. Would love to collaborate but disagreements about 'how' to do the program and how to present it. Most other projects doing this do it manually, which disagrees with
+  
+Could you look for signifiers like capital letters for word shapes?
++ Want to get away from OCR
+
+How portable is this programme?
++ Doesn't matter about text language so long as you can have transcription in unicode / plaintext / html
++ Graphical and backend separated so you can have just one or the other if you want.
+
+Can it do vertical languages?
++ We haven't configured it yet, but it should work fine
+
+Could it work with Thai (spaces / word shape)?
++ 'Thai scares me'
+
+Can it recognise idiosyncrasies of handwriting?  
++ That isn't the problem we were trying to address but could be a future work (it's a good idea). There are other good handwriting scanners (transcriptorium project).  We would need 'sexier' polygons
+
+Advice for OCR providers?
++ We were trying to avoid skewing / warping image to 'make it recognisable' but to work with it as it is, which may not work for OCR providers  
 
 ### Victorian Meme Machine ###
 Bob Nicholson, Lecturer, Edge Hill University
 
+#### Blurb ####
 Bob will present the work he has been doing with Labs on the Victorian Meme Machine. What would it take to make a Victorian joke funny again? While the great works of Victorian art and literature have been preserved and celebrated by successive generations, even the period’s most popular jokes have now been lost or forgotten. Fortunately, thousands of these endangered jests have been preserved within the British Library’s digital collections. This project has begun to find these forgotten jokes and bring them back to life.
+
+#### Notes ####
+
+**Warning, presentation will contain Victorian jokes -- Some are really bad! You are under no obligation to laugh**
+
+#### Background ####
+
+Perception of Victorians as humorless is unfair
++ Jokes were everywhere
++ We tend to downplay that humour
+
+Jokes help us understand
++ Slang
++ Dialect
++ Other conversational aspects of language lost in 'canon' literature
+
+Using an interface to explore jokes that was not at all suitable (Sorry BL, have to agree!)
++ Wanted to create a way to do this batter
+
+#### Initial Idea ####
+
++ Find a way to extract
++ Mark up with additional data
++ (experimental) Find a way to map that joke to a BL image
++ Package data together (mashup / meme machine)
+  + Brilliant examples shown!  Annoy @digivictorian for his slides!
+  
+#### Stage One: Finding Jokes ####
+
++ Best sources are books and newspapers
+  + Aim to get 1000000 jokes
+  + 'The Book of Humour, Wit, & Wisdom: A Manual of Table-Talk
+    + Manually extracted jokes
+    + Hope for automatic in longer timescale
+  + Newspaper joke columns
+    + Regular, weekly column
+    + 20-30 gags
+    + Mostly reprints
+    + Some changed title every week (very frustrating!)
+    + XML for some databases have <ti> title element
+
+#### Stage Two: Developing Transcriptions ####
+
++ Because we want to republish jokes, we need better than 80% correct
+  + Knew we needed manually transcription / fixing
+  + Used OMEKA (and student labour)
+    + Scripto plug-in
+    + Found it quicker to transcribe than fix OCR
+      + MHB: My students say the same!
++ Tag linguistic aspects (for future research use)
+
+#### Stage Three: Publishing ####
+
++ Still want image / speech bubbles but it will take time
++ Demonstrates mockup with Victorian Automaton / 'Devilish looking chap'
+  + All use Flickr BL images
+  + Random pairings new sources of comedy (benefit of mashups)
+  + Now automated
+  
+#### Publication ####
+
++ http://www.VictorianHumour.tumblr.com
++ Mechanical comedian will tweet jokes at lunchtimes (@victorianhumour)
+
+#### Track Use ####
+
++ Compare Victorian reprinting with modern retweeting / reuse (Please retweet!)
++ Data will go up on site
+
+#### What's Next ####
+
++ Begin automatic joke publishing
++ Invite users to reinterpret (revive) jokes
+
+--End of Lab Stage--
+
++ Hope to expand project
+  + External funding / new partnerships
+  + Expand and automate joke extraction
+  + Implement a new transcription platform
+  + Develop an accessible online research archive of Victorian joke
+  + Continue to experiment with ways to publish / reinvent the jokes
+    + Invite youtube colloboration?
+
+#### The Big Picture ####
+
++ Repurposing data
+  + We digitise for a particular purpose and then it gets locked in
+  + Take the data we've got and use it in new ways
++ Remixing
+  + Take two different sets of data and make them speak to each other in new and interesting ways
++ Gamification
+  + Something that could be done on the iphone app
+    + Transcribe and get reward of image (and kudus for improving data!)
++ Thanks to BL Labs 
+
+Questions:
+
 
 ### Projects using British Library digital content and data ###
 
