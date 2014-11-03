@@ -1,5 +1,5 @@
 # Re/Search in the Digital Age #
-*Workshop. Baltic Creative. Liverpool*
+*Workshop by Engage, University of Liverpool. Baltic Creative. Liverpool*
 
 ## Friday, 31 October 2014 ##
 
@@ -30,10 +30,10 @@ How to stop it?
 #### Specialist Resources ####
 
 Specialist academic databases
-+ ![Advantages and Disadvantages](https://pbs.twimg.com/media/B1RnLO2IUAA9S3N.jpg)
+![Advantages and Disadvantages](https://pbs.twimg.com/media/B1RnLO2IUAA9S3N.jpg)
 
 General web search engines
-+ ![Advantages and Disadvantages](https://pbs.twimg.com/media/B1RnVYuIYAA2y_2.jpg)
+![Advantages and Disadvantages](https://pbs.twimg.com/media/B1RnVYuIYAA2y_2.jpg)
 
 #### Determining authority and usefulness ####
 
@@ -65,7 +65,8 @@ Is it all just trial and error?
 
 
 + * You should have a data management plan BEFORE you start any new project *
-  + ![Practical Steps to Good Data Management](https://pbs.twimg.com/media/B1Ru06LIMAEIikR.jpg)
+![Practical Steps to Good Data Management](https://pbs.twimg.com/media/B1Ru06LIMAEIikR.jpg)
+
 ____
 #### Nota Bene
 
