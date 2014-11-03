@@ -29,10 +29,12 @@ How to stop it?
 
 #### Specialist Resources ####
 
-Specialist academic databases
+Specialist academic databases    
+
 ![Advantages and Disadvantages](https://pbs.twimg.com/media/B1RnLO2IUAA9S3N.jpg)
 
-General web search engines
+General web search engines    
+
 ![Advantages and Disadvantages](https://pbs.twimg.com/media/B1RnVYuIYAA2y_2.jpg)
 
 #### Determining authority and usefulness ####
