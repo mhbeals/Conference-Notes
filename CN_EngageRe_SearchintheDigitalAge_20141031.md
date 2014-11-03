@@ -63,8 +63,7 @@ Is it all just trial and error?
     + 'What does that variable mean? Oh, the post grad who has left knew that.
   + You can have good Data Managment without being 'OPEN', *but not the reverse*
 
-
-+ * You should have a data management plan BEFORE you start any new project *
+*You should have a data management plan BEFORE you start any new project*  
 ![Practical Steps to Good Data Management](https://pbs.twimg.com/media/B1Ru06LIMAEIikR.jpg)
 
 ____
