@@ -328,9 +328,54 @@ Wouldn't you need contextual details to prove correlation / causation?
 ### Measuring the value of public domain data ###
 Peter Balman , Software Developer and Winner of the Technology Strategy Board and British Library's Innovation Challenge (IC Tomorrow) -The value of public-domain data.
 
+#### Blurb ####
 Peter will talk about a tool he is developing that will proactively search for British Library's digital content on the web and give a detailed breakdown of where, how and by whom it is being used. Having visibility on this kind of data could help the BL make choices around targeting users by releasing similar content and encourage further use and deeper engagement within these groups.
 
+#### Notes ####
 
+Challenge is to encourage and establish the necessary feedback to measure the use and impact of public-domain content available through existing online platforms
++ What is the value to providers (such as BL)
++ What is value of making this data available to end-users
+
+Metrics
++ Raw hits
++ Demographics or users
++ What do people talk about when they talk about using this data (sentiment analysis / natural language processing)
+  + Social media useful (RT, favourites, likes)
+  + Can be more abstract when talking about images
+
+Example of the journey of an image to Burning Man, to be burned.  But also images of the images before during and after burning.
+
+Possible Metrics?
++ Small Data Sets with research questions
++ Large Data Set (and hope for the best)
+
+Workflow
++ Select image / collection
++ Visual representation of data crunching
++ Macro-->micro view to find 'interesting results'
++ Share socially (tweet function!)
+
+Working on Now
++ Filtering by time, etc to help understand demographics and other information
+
+(MHB: This was a very visual presentation, might be useful to search out twitter images or online slides)
+
+When can you use it?
++ It is generally complete so institutions should feel free to contact.
+
+Questions:
+
+How are you actually finding uses?
++ Tin eye, some Google, Imageraider
+  + Does it matter they aren't photographs
+    + No, but does cause difficulty determining where they got it from (you or another source? use chronology....maybe)
+
+How many 'interesting' examples will you find?  Won't most be boring uses?
++ Its about context around it as well as 'quality of reuse.
+
+Any part of the project that considers whether the 'public domain'ness makes a difference?
++ Yes. Maybe. Don't know.  It doesn't have to be public domain images.
 
 ### The surprising tale of the mechanical curator and 1 million images ###
 Mahendra Mahey, Manager and Ben O'Steen, Technical Lead of the British Library Labs
