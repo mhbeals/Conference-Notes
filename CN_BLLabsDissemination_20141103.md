@@ -380,7 +380,140 @@ Any part of the project that considers whether the 'public domain'ness makes a d
 ### The surprising tale of the mechanical curator and 1 million images ###
 Mahendra Mahey, Manager and Ben O'Steen, Technical Lead of the British Library Labs
 
+#### Blurb ####
+
 The Labs team will tell the surprising story of one digital collection that the Library holds and how their work with it produced results no one expected, not even them! They will show how and - more importantly - why they created the ‘Mechanical Curator’ and uploaded over a million illustrations taken from books onto Flickr. These images have stirred great interest from artists, researchers and the general public, garnering 200 million views and over 100,000 descriptive tags in under a year. The team will provide some examples of the creative and academic work that the collection has inspired as well as showing the impact the release has had.
+
+#### Notes ####
+
+Our audience is anyone, but primarily UK academia, with or without an idea before hand, looking at our data
++ Ideas can change (will change?) once you see, experiment with data or when you engage with BL staff.  
+  + Wants to encourage this continually, not just in competition.
+  
+Who we work with?
++ Digital Scholarship
++ Project Board
++ Digital Research
++ Access & Reuse Group
++ Advisory Board
++ Curators / Researchers
++ Developers / Technical Staff
+  + Get the last two groups in contact with Digital Content
+  
+Work with Access and Reuse Group
++ Internal group with BL to help provide data
+
+Sifting through Collections
++ Digital but not online
++ Available on site only due to (c)
++ Available online in Reading Room due to (c)
++ Digital and online
+
+Questions to ask:
++ Copyright cleared?
++ Curated (what is the story behind the collection, does person know it?!)
++ Metadata available?
++ Where is it?
++ Most is in Arts and Humanities
++ Lots of meetings in canteen (MHB: so, so true)
+
+
+They'll give you data if you speak to them *and* feel professional obliged to speak to other groups about it (and tell them about it)  
+(MHB: easy enough!)
+
+Types of research being supported:
++ Research is changing because of digital
+  + Data broken down, recombined and duplicated
++ A new breed of researcher
+  + Open, networked, digital (MHB: Be kind, share!)
+  
+Interesting graph (by Ben from BL Labs) on intersection of humanities / technical skills in a person / collaboration
+
+How to engage?
++ Competition
++ Events
++ Funding calls
+
+Short-term project advantages
++ We have to be quick, agile
++ Major part of decision making
++ Reach the parts that other parts cannot
++ Do the things that others cannot
++ Be the bridge
+
+We want to work with REAL researchers, not ideal/imaginary/phantom ones 
+
+Building bridges with rapid depreciation :)
++ Build needed bridges now, not perfectionist ones..eventually or never
+
+The unifying theme to most requests it
++ Give me EVERYTHING (that might be important to my work)
++ We need a toolset to figure out what this is
+
+We could have given it out and said "here you go, let us know how it goes"
++ But better to make it really accessible and usable
+
+Why can't we just use the catalogue?
++ If we really knew exactly what we wanted, we wouldn't be coming to them
+
+How search engines work:
++ Stopwords are removed (common AND assumed unimportant) (MHB: Please let me not do this.  Stopwords are my friends!)
++ Word changed to roots
++ All assumed to have 'most relavant' not 'complete set'
+
+Why not all the data that **might** be useful?
++ Subjective
++ But AI is developing quickly
+  + Creepy story about Google 'good smiles'
+  + Even creepier image of '16 sad women'
+
+Digital corpus not reflective of physical (spikes are flattened): samplegenerator.cloudapp.net
++ The MARC data can be very useful.  It might just need to be rephrased. 
+
+Just say 'use the API' isn't helpful.  Needs to be partnership of showing how and working with.
+
+Tried an experiment of finding faces in 19th century with facial recognition software.  
++ People came and looked over his shoulder
++ So made a tumbler <http://mechanicalcurator.tumblr.com/archive>
++ Not that worried about 'stealing' as resolution was not great for printing on t-shirts
++ Some degree of machien learning (finding similar images)
+
+Machine Learning 101:
++ Turn raw data into numbers
+  + lines, shapes, offset
++ Process data
+  + remove noise and tone variation
+  + turning a grid of pixels into independant trackable 'pints of interest'
+  + hues, saturation, contrast
++ Annotate (manually or automatically)
++ Pass through on of mnay machine learning algorithms such as Scalable Vector Machine
++ Testing
++ Use process on rest of data
+
+Analysis starts with a bulk set of data, a set of summuptions and testing
++ No-one can support all assumptions and ideas! 
+
+Why had no one done mechanical curator before?
++ Data was technically available
++ But a lot of hoops to find out 'if it was even interesting to you'
++ Put up on flickr (All in one go!)
+  + 5 million visitors in first day
+  + Crowdsourced tagging
+
+Releasing is hard because you don't really always get back data on use...but that's okay.
++ Raw hits
++ Some engagement (tagging metrics)
++ Recooping loses?
+  + If you didn't know there was value in it, you aren't losing anything
+
+Crowdsourcing:
++ Metadata Games
++ Wikipedia Synoptic Index
++ BL Georeferencer
++ Scott Nicholson's RECIPE for Meaningful Gaminication
+
+"If you knew where you were going at the start, It wouldn't be research. It would just be work" -- Ben
+"Nothing in the world that motivates people to do things more than someone else doing it wrong" -- Ben
 
 ### What the Library has learned from the British Library Labs project and how it will be supporting Digital Scholars in the future ###
 Adam Farquhar, Head of Digital Scholarship and Principal Investigator of the British Library Labs project
