@@ -6,12 +6,82 @@
 ### Keynote: Big Data, Small Data and Meaning: the conundrums of tool use in the humanities ###
 Tim Hitchcock, Professor of Digital History, University of Sussex
 
+#### Blurb ####
 While 'big data' has grabbed the headlines in recent years, the creation of new digital tools has also changed how we undertake forms of 'close reading'. This talk will explore how 'big data' and 'close reading' can be more effectively integrated into a single research strategy that acknowledges the importance of seeing inherited culture both in detail - close up; and in context - at scale. It will also consider these methodological developments in light of the continuing importance of more traditional humanist theory.
+
+#### Notes ####
+
+[..in media res...]
+
++ We must remember the 'power of the particular' in macroscopic analyses
+  + Big Data falls down when it fails to refocus
+  + TH worries that we are losing our ability to see detail in a way that make Thompson et al so compellling. 
+
++ Humanities scholars should have self-confidence in their abilities
+  + We can do certain things STEM scholars don't do very well
+  + Close reading of a single datum
+  + Big data supposedly let's you 'get away with dirty data'
+  + We need tools to do a close reading of data that makes up big data
+  
++ Radical contextualisation
+  + Understand the history and usage of a word so we can recognise when it is used in a way that is new or would look odd to contemporary readers
+  + "Where is the tool to do that? Where is the project?"
 
 ### The Text to Image Linking Tool - winner of the British Library Labs 2014 competition ###
 Desmond Schmidt, Research Scientist and Anna Gerber, Technical Project Manager of the University of Queensland
 
+#### Blurb ####
 Historical printed and manuscript material is often difficult to read and understand. Once digitised, researchers create detailed transcriptions, but making links between page images and the transcribed text is difficult and time-consuming. Desmond and Anna have been developing semi-automated techniques to build these links, to verify them, and to capture information that goes beyond text to include differences in lineation, type-size and line-spacing.
+
+#### Notes ####
+
+Background to the problem
++ Why link text to images
+  + Library contain thousands of literary and historical texts
+  + People expect to be able to access them on their ipads!
++ Digitisation is an obvious first step
+  +'Bilwidering' number of thumbnails
++ Can attach text to page image (on top)
+  + OCR 
+  + hard to fix errors
+  + text can't be formatted / annotated
+  + can search
++ Can put it side by side (page level)
+  + Need to be synchronised
+  + Lots of mental effort to move back and forth between formats / size / etc
++ Link at line level
+  + Can't reflow
++ Word Level
+  + Works even if hyphenated across lines
+
+Manual Approach
++ Manually draw shapes around words
++ Link to text with mark up
++ Tedious, expensive
++ Markup too complex
++ Two transcriptions needed
+  + One for links
+  + One for formatting
+  
+Basic Idea of TILT
++ Find words in an image **without** recognising their content
++ Use and existing ransciption of the page ontent
++ Link these two compnents mostly automatically
++ GeoJSON overlay links to image and transcription but not part of either
+
+Method
++ Colour to greyscale
++ to Black and White
++ Find lines (can handle curves and slants)
++ Find words shapes (blobs of connected pixels with small gaps between them)
+  + If you have 300 words, are the 299 biggest gaps the spaces?
++ link word-shapes to text
+
+*Please don't have black verticle lines when digitising text!*
+
++ update anchors whenever words get out of alignment 
++ last resort: manually draw polygon around words
+
 
 ### Victorian Meme Machine ###
 Bob Nicholson, Lecturer, Edge Hill University
