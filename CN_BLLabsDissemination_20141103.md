@@ -69,8 +69,8 @@ Manual Approach
   
 Basic Idea of TILT
 + Find words in an image **without** recognising their content
-+ Use and existing ransciption of the page ontent
-+ Link these two compnents mostly automatically
++ Use and existing transcription of the page content
++ Link these two components mostly automatically
 + GeoJSON overlay links to image and transcription but not part of either
 
 Method
@@ -81,7 +81,7 @@ Method
   + If you have 300 words, are the 299 biggest gaps the spaces?
 + link word-shapes to text
 
-*Please don't have black verticle lines when digitising text!*
+*Please don't have black vertical lines when digitising text!*
 
 + update anchors whenever words get out of alignment 
 + last resort: manually draw polygon around words
@@ -100,7 +100,7 @@ Could you look for signifiers like capital letters for word shapes?
 + Want to get away from OCR
 
 How portable is this programme?
-+ Doesn't matter about text language so long as you can have transcription in unicode / plaintext / html
++ Doesn't matter about text language so long as you can have transcription in Unicode / plaintext / html
 + Graphical and backend separated so you can have just one or the other if you want.
 
 Can it do vertical languages?
@@ -127,7 +127,7 @@ Bob will present the work he has been doing with Labs on the Victorian Meme Mach
 
 #### Background ####
 
-Perception of Victorians as humorless is unfair
+Perception of Victorians as humourless is unfair
 + Jokes were everywhere
 + We tend to downplay that humour
 
@@ -202,7 +202,7 @@ Using an interface to explore jokes that was not at all suitable (Sorry BL, have
   + Implement a new transcription platform
   + Develop an accessible online research archive of Victorian joke
   + Continue to experiment with ways to publish / reinvent the jokes
-    + Invite youtube colloboration?
+    + Invite youtube collaboration?
 
 #### The Big Picture ####
 
@@ -213,7 +213,7 @@ Using an interface to explore jokes that was not at all suitable (Sorry BL, have
   + Take two different sets of data and make them speak to each other in new and interesting ways
 + Gamification
   + Something that could be done on the iphone app
-    + Transcribe and get reward of image (and kudus for improving data!)
+    + Transcribe and get reward of image (and kudos for improving data!)
 + Thanks to BL Labs 
 
 Questions:
@@ -249,8 +249,8 @@ Aim: To (text) mine Edinburgh's literature
   + HathiTrust
   + British Library Nineteenth Century books collection
   + Gutenberg
-  + Oxord Text ARchive
-  + National Library of scotland data
+  + Oxford Text ARchive
+  + National Library of Scotland data
   + ECCO/EEBO
   + Limited set of copyrighted material if author/publisher agrees
 + Workflow: Digitised documents --> Filtering --> Manual curation --> Text mining (Geoparser / Edinburgh Gazetteer)--> relational database -> User interface
@@ -262,8 +262,8 @@ Aim: To (text) mine Edinburgh's literature
 + FIRST though
   + Common format
   + Written English text
-  + Post-corrected automattically
-  + Linguisitically preprocessed
+  + Post-corrected automatically
+  + Linguistically preprocessed
 + Curation choices
   + No poetry
 + Point of text mining is always discovery
@@ -296,7 +296,7 @@ The Digital Music Lab is developing research methods and software infrastructure
   + Changes in performance
   + Influence of composer / artist
   + Relation to genre
-+ Digital research combining musicology and music infomatics
++ Digital research combining musicology and music Informatics
 + Why the BL?
   + Over 3 million unique recordings
   + Wide ranging: popular, world and traditional music
@@ -316,8 +316,8 @@ The Digital Music Lab is developing research methods and software infrastructure
   + Processed over 1million pieces in 6 weeks
   + Visualisations of commonalities.  No C# chords in Blues?
 + Outputs
-  + Web interface to make dervived data available globally
-  + Aims to be scalable, sustainable (open source) and reproduceable
+  + Web interface to make derived data available globally
+  + Aims to be scalable, sustainable (open source) and reproducible
   
 Questions:
 
@@ -459,7 +459,7 @@ Why can't we just use the catalogue?
 How search engines work:
 + Stopwords are removed (common AND assumed unimportant) (MHB: Please let me not do this.  Stopwords are my friends!)
 + Word changed to roots
-+ All assumed to have 'most relavant' not 'complete set'
++ All assumed to have 'most relevant' not 'complete set'
 
 Why not all the data that **might** be useful?
 + Subjective
@@ -476,21 +476,21 @@ Tried an experiment of finding faces in 19th century with facial recognition sof
 + People came and looked over his shoulder
 + So made a tumbler <http://mechanicalcurator.tumblr.com/archive>
 + Not that worried about 'stealing' as resolution was not great for printing on t-shirts
-+ Some degree of machien learning (finding similar images)
++ Some degree of machine learning (finding similar images)
 
 Machine Learning 101:
 + Turn raw data into numbers
   + lines, shapes, offset
 + Process data
   + remove noise and tone variation
-  + turning a grid of pixels into independant trackable 'pints of interest'
+  + turning a grid of pixels into independent trackable 'pints of interest'
   + hues, saturation, contrast
 + Annotate (manually or automatically)
-+ Pass through on of mnay machine learning algorithms such as Scalable Vector Machine
++ Pass through on of many machine learning algorithms such as Scalable Vector Machine
 + Testing
 + Use process on rest of data
 
-Analysis starts with a bulk set of data, a set of summuptions and testing
+Analysis starts with a bulk set of data, a set of assumptions and testing
 + No-one can support all assumptions and ideas! 
 
 Why had no one done mechanical curator before?
@@ -518,13 +518,97 @@ Crowdsourcing:
 ### What the Library has learned from the British Library Labs project and how it will be supporting Digital Scholars in the future ###
 Adam Farquhar, Head of Digital Scholarship and Principal Investigator of the British Library Labs project
 
+#### Blurb ####
+
 Adam will highlight key lessons that we’ve learned working closely with researchers since the Labs were formed and discuss how the Labs is transforming our approach to providing services to support digital research and scholarship. He will also outline plans for the Labs over the coming years and give further details of the 2015 Competition. 
+
+#### Notes ####
+
+Readers and Digital Behaviours (2014 Survey on Digital Research Behaviour)
++ Demographics
+  + Mostly taken by females, academics, and people in the Arts and Humanities
+  + Most takers were from London, though 25% from outside UK, mainly North America
++ Changes since 2010 survey
+  + 3x increase in feeling that British Library was 'very important' in digital research
+  + 63% satisfied with services
+    + want better remote access
+    + better wifi 
+    + better delivery to tablets / phones
++ Changes in behaviour
+  + Device use
+    + 2x laptops
+    + 4x smart phones
+    + 10x tablets
++ Research still mainly done on textual material, but others increasing
+  + More non-textual material becoming available online
+  + More interest in existing materials (especially 19th century)
++ Digital skills
+  + 1 in 2 aware of data wrangling / scripting
+  + 1 in 3 use text or data mining
+  + 1 in 6 programme
+
+General Behaviours
++ Most researchers worked alone
++ 2x increase in use of social media to dissemination or talk about findings
++ Print format remains most popular
++ 30% have work in a digital repository
+  + 44% didn't know if they did
++ There was a high 'awareness' of copyright issues 
+  + Did not check for 'correctness'
+  
+Digitisation
++ Not based on making a representative sample
+  + funding (projects), conservation needs, unusual or non-canonical works
++ Why can't I have it all?
+  + So much data that it would take 1 and a half years at 100 Mbs (dedicated standard) broadband to download it all (if you even had somewhere to put it)
+  
+BL Labs want to help in Building Skills
++ Digital Scholarship Training Programme
++ Catalogue of one-day courses
+
+**Shoutout to Programming Historian**
+
+Competitions
++ Big Data Experiment
+  + Project with uCL, Microsoft and Bl
+  + MSc students developed platforms to interrogate public domain digital collections
+
++ David Normal, **Crossroads of Curiosity**, display at Burning Man
++ Off the Map 2014
+  + Gothuclus Rift: http://nixgamingdevblog.blogspot.co.uk
++ Off the Map 2015
+  + Alice's Adventures
+  
+Lesson 1: More is More
++ Digital legal deposit legislation will begin soon
++ Digitisation continuing
+  + Work with Google and Microsoft
+  
+Lesson 2: Less is More
++ Tools available from BL
+  + Lots of internal / external conflict about the 'best way' to do something
+  + Don't want to dictate but rather facilitate use of data; don't want to 'pick winners'
+  + Wants to allow access for people to create own tools
+  
+Lesson 3:Bring Your Own Tools
+
+Lesson 4: Let people be creative
++ We can't prescribe other people's workflows
+
+Lesson 5: Support 'starting small, finishing big'
++ Develop technique on small scale with support
++ Encourage continuing development
 
 ### Sound making today and in the Victorian era ###
 Sarah Angliss, composer, automatist and sound historian
 
+#### Blurb ####
+
 Sarah explores some unlikely affinities between sound making today and in the Victorian era. This will include references to the phonograph, ventriloquism, the learned pig and recordings held at the British Library. She will be available during the final reception in the Chaucer room to talk about the technology behind her creations and will host a special drop in D.I.Y session where you will be able to record your own voice on a wax cylinder using an original Edison phonograph, and hear how this 19th century sound recording equipment changes the way you sound.
 
+#### Notes ####
+
+This was a highly anecdotal, visual and auditory presentation. Notes would not do it justice.
 ____
 #### Nota Bene
 
