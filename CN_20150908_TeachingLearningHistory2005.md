@@ -162,8 +162,70 @@ Notetaker: Good idea.  Like a teaching philosophy, but a learning one?
 
 Make your teaching of history accessible, meaningful, coherent and achievable
 
+Question from the audience: What can HE academics provide in their writing?
+
+Answer: Maybe not just writing, but also first-year lecture materials? Some HE’s (notetaker, I know who!) have taken such materials offline.
+
 ### Are you an Ignorant Schoolmaster? Using Philosophy to Construct Pedagogy in the History Classroom ###
 *Annmarie Vales, Loyola University Chicago*
+
+Initial pedagogical perspective: I love history SO much
+
+New pedagogical perspective: I still love history, and I am reflective about teaching it and responsive to students ‘teaching me’
+
+Regular reading: *Schoolmaster* by Jacques Ranciere and *An answer to the question: What is Enlightenment*
+
++ Understanding the difference between the material being taught and the person being taught
++ Rarely use student, peer, human being
+
+Main teaching goal: I am speaking to you, not examining you.
+
+Ranciere:
+1. Student emancipation (as opposed to explicator of stultification)
+2. Equality of intelligence (as opposed to weaker/stronger student)
+3. Rhetorical madness
+4. Progressive’s circle
+
+The problem:
++ University course are settled?
+  + Academic freedom w/in pre-determined course tracks (I don’t want to teach colonial times – civil war)
++ Time constraints
++ We have to grade them
++ Training or pedagogy of experience
++ Personal dissatisfaction
++ Hierarchy 
+
+Issues:
++ Undergraduates as children – as market-obsessed
++ Rise of technology
++ Group Learning
++ Exams exams exams
++ Dependence on rubics
++ Students report grades motivate more than learning
+
+Student emancipations
++ Presupposition of equality
++ Re-emphasis on individual thought and effort
+
+Classroom examples
++ Syllabus contributions
+  + Not standard readings, but asked about doing 4 SCOTUS cases instead
++ Thinking Questions
+  + They email questions from their reading
++ Limit group activities
+  + group activities (student: where my ideas go to die)
++ Creation of own thesis and paper topic
++ Consistent emphasis on originality
++ No internet sources unless it’s a primary source. If google can answer it, it’s not a thinking question.
+
+Notetaker (Good!)
+
+
+
+
+
+
+
 
 ### Argue to think: helping VIth formers to write more effective argument in their history essays ###
 *Diana Hilliard, Argue to Think Project*
