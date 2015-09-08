@@ -411,8 +411,6 @@ Reflection:
 + Not all traditional courses can be transformed into online courses
 + Course topic is a major consideration
 
-### That’s all folks (my session is next, and last) ###
-
 Good choices for blended / distance learning?
 
 + **Non-textual sources of the ancient world**
@@ -427,6 +425,8 @@ Good choices for format?
 + Visual material and observation assignments (written instructions)
 + Assignments that promote group activities (discussion boards)
 + Assignments that promote information literacy and research skills
+
+### That’s all folks (my session is next, and last) ###
 
 ____
 #### Nota Bene
