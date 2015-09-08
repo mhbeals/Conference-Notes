@@ -271,17 +271,50 @@ Question: do you talk about the negative aspects of arguments, such as the MEANS
 
 Answer: Disagreement isn’t negative. And we are quite structured to avoid this.
 
-### It really makes you think critically ###
-*David Clampin, Liverpool John Moores Univeristy, and Steve Lawler8
+### The Making of Modern Britons: Identity and Community 1901-1964. It really makes you think critically ###	
+*David Clampin, Liverpool John Moores Univeristy, and Steve Lawler*
+
+The problem:
+
++ Too much descriptive narrative
++ Reckless use of language
++ Poor planning and structure
+
+Cultural History of Britain, 1901-1964
+
+Assessment model:
++ 500 Word definition of ‘modernity’
+  + Distil to ‘Key message’
+  + 4 Key Concepts under modernity (with short descriptions)
+  + gets them to think about language
++ ‘A Visual Essay’ around a case study (iSpring)
+  + Because it’s a ‘package’ there has to be a navigable flow; organisation
+  + Because you have to ‘move along’, they naturally answer the ‘so what’ question.
+
+Feedback from Cohort
+
++ Not universally popular
++ Unnerving and disorientating
++ Unconventional
++ Unclear what the final output would be
+
+Notetaker: common refrain!  Must always think this through at start
+
++ Provide support
++ Provide examples
++ Persist in the face of adversity
++ Will it have any long-term benefit? No idea.
+
+Comment from audience: Digital humanities is about being unsettling.
 
 
 
-NB, I chaired this session and notes may be fragmentary
+
+
 
 ### Learning through Practice: A Participatory Workshop Exploring Ways of Teaching the ‘Grammar’ of Historical Research ###
 *Diana Jeater, Goldsmiths University*
 
-NB, I chaired this session and notes may be fragmentary
 
 
 ____
