@@ -220,18 +220,61 @@ Classroom examples
 
 Notetaker (Good!)
 
+Importance of dialogue in teaching (in material and in pedagogy)
 
-
-
-
-
-
+Students have their own binaries they come to class with, but every student’s binary is different (Free thinking) and they see that after just a few weeks.  All asking different questions and therefore not ‘binary’ overall
 
 ### Argue to think: helping VIth formers to write more effective argument in their history essays ###
 *Diana Hilliard, Argue to Think Project*
 
+Although being argue in a complex society vital, students (regardless of where they are coming from or the level support being offered) find it difficult to write effective arguments.
+
+*PhD Research*
+
++ ‘The talk’ of argument in history
+	
+Interviews:
+
+History education academic look at **structure**
+Examiners **measure by quality of argument**, so don’t want it ‘taught’.
+Teachers, spoke about **structure**
+Students, we know about **structure** but have other issues
+
+Classroom observations:
+
+Teachers worried about structure and lack of independent thought; students now about structure by timid about ‘own opinion’. Don’t know what I think.
+
+*Focus on Process, not structure*
+
+Literature: Lots of good stuff on history, but nothing on ‘historical argument’.  Think it’s implied?
+
+‘Everyone knows how to ride a bike, don’t they?  Do you remember HOW you learned to ride a bike?’
+
+Show them ‘argument clinic’ from MPFC and Prime Minister’s Questions to ask students about ‘is this a good argument?’
+
+Different types of argument
++ Opinion based
++ Persuasion
++ Historical (multipolar) argument (How far do you agree...)
+
+Plan the argument as a group – go solo in writing
+
+Results:
+
++ Improvement in essays based on ‘argument indicators’
+
+Question from the audience: What of those students who are less inclined to ‘talk’ during learning process?
+
+Answer: We always start with (student-created) ground rules, and debunking of ‘row’ arguments
+
+Question: do you talk about the negative aspects of arguments, such as the MEANS (lying) but which you destroyed their argument
+
+Answer: Disagreement isn’t negative. And we are quite structured to avoid this.
+
 ### It really makes you think critically ###
 *David Clampin, Liverpool John Moores Univeristy, and Steve Lawler8
+
+
 
 NB, I chaired this session and notes may be fragmentary
 
