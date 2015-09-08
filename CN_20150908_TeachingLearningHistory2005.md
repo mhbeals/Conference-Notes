@@ -340,6 +340,7 @@ Part IV: How did basic human needs (food, clothing and shelter) effect what happ
 
 ### I wanted to do it right because I knew you’d be watching: Video log assessments ###
 *Elaine Farrell, Queens University Belfast*
+@Elaineffarrell
 
 Liked the idea of seminar logs, but they were already assessed on written communication in essay...
 
@@ -374,6 +375,58 @@ Students felt marks were roughly comparable (or better) than written logs.
 Would have encouraged sharing more (very few shared)
 + In think tank students were reluctant to share in class, when they are in the room (70% no)
 
+### Asynchronic and Remote Teaching of Ancient History – Trial Error and Future Prospects ###
+*Daniela Dueck, Bar Ilan University Israel*
+
+Blended Learning
+
++ Increased student control over time, place and pace
+
++ Strong dependence on computer or digital literacy	
+
+Students are a mixture of classics/ancient history and students specialising in other periods, or from other disciplines with no formal history training
+
++ Adjustment needed, but not on academic rigor 
+
+Assessments
+
++ Proficiency exam on specific plays (multiple choice quiz)
++ Application of modern theories on an ancient play
++ Comparison of Plays
++ Analysis of sections from tragedies
++ Analysis of a modern production of an ancient play
+
+Feedback:
+
++ Not clear instructions
++ Short timeframe
++ Too many assignments
+
+Only the first may be related to digital format (others are typical complaints of face-to-face)
+
+Reflection:
+
++ Missed group discussions and guided readings
++ Written communication is limited
++ Not all traditional courses can be transformed into online courses
++ Course topic is a major consideration
+
+### That’s all folks (my session is next, and last) ###
+
+Good choices for blended / distance learning?
+
++ **Non-textual sources of the ancient world**
++ Good broad relevance to range of students
++ More material sources available than textual ones, especially for certain groups
++ Designed FOR a distance module
+
+Close reading requires more direct guided help so not well suited to distance learning
+
+Good choices for format?
+
++ Visual material and observation assignments (written instructions)
++ Assignments that promote group activities (discussion boards)
++ Assignments that promote information literacy and research skills
 
 ____
 #### Nota Bene
@@ -382,4 +435,4 @@ ____
 
 <a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a>
 
-***Taken Live and should not be considered a definative or complete record
+***Taken Live and should not be considered a definitive or complete record
