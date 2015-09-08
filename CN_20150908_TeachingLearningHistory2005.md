@@ -307,14 +307,36 @@ Notetaker: common refrain!  Must always think this through at start
 
 Comment from audience: Digital humanities is about being unsettling.
 
-
-
-
-
-
 ### Learning through Practice: A Participatory Workshop Exploring Ways of Teaching the ‘Grammar’ of Historical Research ###
 *Diana Jeater, Goldsmiths University*
 
+NB, this is a workshop and notes may be sporadic.
+
+“Some students are just not learning by doing” ... “but they come with a whole set of assumptions”
+
+Having student use all aspects and approaches on their ‘favourite’ module, helps them understand it isn’t about this topics = this approach.
+
+Part I: Reading a primary source empirically 
+
++ Historians in the room noticed the ‘metadata’ of the primary source as empirical data, but students wouldn’t; the concentrate on content
++ Received background information / data from their other modules; put in groups based on shared modules being taken. (Cohort building)
+
+Part II: Reading against the grain
+
+Part III: Reading from a Cultural History methodology
+
++ Some students always saw the value of different methodologies on their sources, but the rest really benefited from making this explicit. 
++ Highlights why certain methods work on certain sources; not the topic but the analyses possible (but also allows non-conventional uses)
+
+Question from audience: Don’t we as practitioners have an equal need to broaden our methodological range
+
+Answer: Yes, but not all colleagues will, but this is about making the process (The why) clearer to them.
+
+Comment from audience: even ‘good’ students gain from it because they know ‘why’ they are doing the right thing already.
+
+Part IV: How did basic human needs (food, clothing and shelter) effect what happened in the past?
+
+(Marxist analysis by stealth!)
 
 
 ____
