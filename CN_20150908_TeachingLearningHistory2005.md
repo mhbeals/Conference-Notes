@@ -1,10 +1,40 @@
 # History Teaching and Learning Conference #
 *Institute of Historical Research. London*
-**Kindly Sponsered by the Royal Historical Society**
+**Kindly Sponsored by the Royal Historical Society**
 
 ## Tuesday, 8 September 2015##
 
-### Keynote ###
+### Welcome from Peter D’Sena ###
+
+Reminder of upcoming conference in Bielefeld next May 24, 2016 (https://www.uni-bielefeld.de/geschichte/forschung/tagungen.html)
+
+Many thanks given to the Institute of Historical Research (@IHR_history) and the Royal Historical Society (@RoyalHistSoc) for their support of Today’s event.
+
+Twitter Hashtag: #THHE15
+
+**Arthur Burns (RHS)**: Thanks to Peter for Organising the Conference; Important for RHS and other organisations (History UK, History Lab Plus, etc) to keep letting people know about excellent teaching in History, and supporting it.
+
+	
+### Keynote: Reflections on Teaching History in Schools ###
+*Dr Mike Maddison, OFSTED and Deputy President, Historical Association*
+
+### Are you an Ignorant Schoolmaster? Using Philosophy to Construct Pedagogy in the History Classroom ###
+*Annmarie Vales, Loyola University Chicago*
+
+### Argue to think: helping VIth formers to write more effective argument in their history essays ###
+*Diana Hilliard, Argue to Think Project*
+
+### It really makes you think critically ###
+*David Clampin, Liverpool John Moores Univeristy, and Steve Lawler8
+
+NB, I chaired this session and notes may be fragmentary
+
+### Learning through Practice: A Participatory Workshop Exploring Ways of Teaching the ‘Grammar’ of Historical Research ###
+*Diana Jeater, Goldsmiths University*
+
+NB, I chaired this session and notes may be fragmentary
+
+
 ____
 #### Nota Bene
 
