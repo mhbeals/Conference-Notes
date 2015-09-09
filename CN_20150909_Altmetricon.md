@@ -72,6 +72,58 @@ Notetaker: Rio Journal and Figshare help
 The community needs a mechanism to carry forward this agenda.  Proposes a Forum for Responsible Metrics.
 
 Also an annual ‘Bad Metric’ award (please let responsiblemetrics.org if you see any really bad examples!)
+
+### Funder (Really Wellcome Trust, speaker admits) Approaches to Altmetrics
+*Adam Dinsmore, Evaluation Officer, Wellcome Trust*
+
+Current Grant Portfolio Largely Science, also Medical Humanities and Technology
+
+**Varying Audiences**
+
++ Visitors to gallery
++ School children
++ Readers of publications
++ Policy documents
++ Metrics
+
+**Key Indicators**
+
++ Discoveries
++ Applications
++ Engagement
++ Research Leaders
++ Research Environment
++ Influence
+
+Altmetrics will help with these
+
+**Our Altmetric Explorations so far...*
+
++ We will probably NEVER use altmetrics to decide funding outcomes
+
+Case Studies
+
++ Measuring Twitter mentions of Wellcome-Trust associated articles
+  + Showed an insight into the impressive influence of an article that ‘appeared parochial’ long before it was ever formally cited
++ Benchmarking between funders (blogs, Wikipedia, twitter, facebook, etc)
++ Better understanding of scholarly communication. Medium to large correlations (as represented by google scholar) between Mendeley readership and citations
++ Updating PubMed1000 using Altmetric data to give a richer view
+
+Two recurrent Observations
+
++ Links between grants and citeable items still difficult to establish
++ ‘Indicators can only meet their potential’ if in interoperable infrastructure
+
+WellcomeTrust now mandates (not ABSOLUTELY mandatory...) ORCID ideas to link grants and outputs for analysis
+
+Helps avoid ‘Wellcome Trust did not fund this study’ acknowledgements (snickers from audience)
+
+
+
+
+
+
+
 ____
 #### Nota Bene
 
