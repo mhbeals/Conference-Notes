@@ -292,8 +292,30 @@ Didn’t just look at tools, but also how the ecosystem works
 
 Helpful slides, information and swag 
 
+### The Almetric Roadmap: Upcoming Developments
+*Jean Liu, Product Development Manager, Altmertric*
 
+Three development teams: The Bakery, Team Awesome Fire Viper! And the Foundry
++ On Twitter at @altmetricdev
 
+Progress in 2015:
+
++ Added Wikipedia 
++ Built a VIVO connector to Altmetric for Institutions
++ Launched the New Altmetric details pages
++ Launched Bookmetrix (Springer)
++ Built a Pure connector to Altmetric for Institutions
++ Added new Twitter support
++ Added new Facebook support
+
+Upcoming
+
++ Expand and improve news tracking
++ Enrich policy sources
+
+[redacted :)]
+
+### Workshops
 ____
 #### Nota Bene
 
