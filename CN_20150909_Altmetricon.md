@@ -118,11 +118,83 @@ WellcomeTrust now mandates (not ABSOLUTELY mandatory...) ORCID ideas to link gra
 
 Helps avoid ‘Wellcome Trust did not fund this study’ acknowledgements (snickers from audience)
 
+### Researcher Viewpoint
+*Jon Tennant, PhD Imperial College London*
+@Protohedgehog
 
+Favourite metric: Kardashian Index
 
+Altmetrics a highly variable basket of metrics. 
 
+Four different types of Altmetrics (Roughly)
 
++ Scholarly activity (Mendeley)
++ Social Activity 
++ Scholarly Commentary (Blogs, Wikipedia)
++ Mass media Coverage 
 
+**Most publishers now employ some sort of altmetric measuring system**
+
+Notetaker: Love the ‘ability to do sciencey things’ graph
+
+**Scope**
+
++ Development of persona for researcher
++ Measures social influences (some aspects)
+  + Helps researchers decided which platforms they want to engage in
++ Recognises need for public disseminations
+
+Scale of social forums in inspiring (100,000,000 possible audience!)
+
+**Altmetrics as a Part of Open Science**
+
+Altmetrics are Essential Tools for ECRS
+
++ Blogging, tweeting, etc
++ How do you measure the success of these?
++ Part of the ‘open science’ toolkit for researchers
++ Goes beyond traditional measures of impact
++ An integral part of 21st Century science
+
+“Shows you are thinking beyond the academy”
+
+Discussing impact factor disease -- name and shame those who use it?
+
+Citation cycle (even in STEM) is not as fast as we need it for job interviews (so true!) so altmetrics can provide a suggestion and proxy for later influence
+
+*Final thoughts*
+
++ Everyone is sceptical
++ Metrics can’t replace peer-reviews
++ Assessment requires a combination of qualitative and carefully selected quantitative indictors
++ Metrics can be used to compliment narrative descriptions of influences
+(partial list, slow fingers)
+
+*The Science?*
+
++ Positive correlation between rapid citations and twitter mentions
++ Highly tweeted articles 11x more likely to be cited
++ Positive but weak correlations between altmetrics and citations
++ Different ‘flavours’ of ‘impact’ that capture different aspects of tools and audiences
+
+**Altmetrics measuring quality?**
+
++ What is high quality research?
++ Journal and publisher brands, citations, impact factors, peer review procedures?
++ How do you measure inspiration? Education? Creativity? Innovation?
++ How do Altmetrics fit into this?
+
+**Discussion**
+
++ Altmetrics don’t solve our problems about assessing impact of research
++ But they do help us think more about its societal reach
++ Have to use metrics responsibly
++ Understand realities of academia
++ What can ECRs do?
+  + Sign DORA!
+  + Discourage use of impact factors
+  + Encourage use of altmetrics and social media
+  + Influence performance metrics at an institutional level
 
 ____
 #### Nota Bene
@@ -132,3 +204,4 @@ ____
 <a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a>
 
 ***Taken Live and should not be considered a definitive or complete record
+
