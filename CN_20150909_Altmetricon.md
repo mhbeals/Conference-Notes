@@ -271,6 +271,28 @@ And
 + Funders
 + REF
 
+3-year timeline from Elsevier/Scopus tweets, through Altmetrics (plugin is free!), DOI soft launch, ePrints Bazaar, Altmetric Explorer and so on...
+
+Glasgow integrating ORCID into Enlighten repository, and bringing in DOIs to theses 
+
+Notetaker: Mine, too?
+
+Soft launch of DOIs and Altmetric app at bottom of page a good way to dip academic toes into the system
+
+There is an Element of Pushing at an Open door but...in many cases it’s not in a vacuum:
+
++ Away Days
++ College Meetings
++ Cake Talks
++ Committees
+
+Didn’t just look at tools, but also how the ecosystem works
+
+**Altmetric Ambassadors Programme**
+
+Helpful slides, information and swag 
+
+
 
 ____
 #### Nota Bene
