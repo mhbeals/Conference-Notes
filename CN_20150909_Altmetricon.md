@@ -196,6 +196,65 @@ Citation cycle (even in STEM) is not as fast as we need it for job interviews (s
   + Encourage use of altmetrics and social media
   + Influence performance metrics at an institutional level
 
+### Implementing Altmetric for our Institution
+*Liam Cleere, Senior Manager, Research Reporting and Analytics, University College Dublin*
+
+**What is impact?**
+
+“The consequences of an action that affect people’s lives in areas that matter to them”
+
+**Altmetric for institutions**
+
+Goals:
+
++ Which journals achieve societal impact
++ Sharpen research communication and promotion strategy
++ Help researchers find evidence of societal impact from research
++ Analyse trusted data to help articular societal impact to funders
+
+**Bottom up --> Communications Supports**
+
++ Provide practical support to leverage social media
+  + Automated twitter feed
+    + Collection from Research Management System -> RSS -> Twitterfeed to Twitter/Linkedin/Facebook (targeted by school) --> Measure with Altmetric
++ Research methods and impact activities
+  + Review of international best practice
+  + On going review of Altmetric tool
+    + High Impact Journals high score on STEM Altmetric
+    + Poor coverage of A&H because we don’t have as many DOIs / output
+    + Twitter and Mendeley best appearance
+    + Highest Altmetric was Arts – Article on Neanderthals (Celtic studies)
+    + High correlation between citations and Altmetric activity per channel: Mendeley (81%) and Twitter highest (90%) frequency in highly cited articles, but Mendeley and CiteULike best correlation with citations
+  + Analysis of communications training at university
+    + College specific brochures to help and streamline this work with researchers
+
+**Top Down --> Excellence and Impact Framework**
+
++ Development of Key Performance Indicators
+  + Funding
+  + People
+  + Dissemination
+  + Impact
+      + Citations
+      + Altmetric “Mentions”
+		+ Aggregate by schools and college and compare to other institutions
+
+**Results**
+
++ Correlative relationship between citations and mentions
++ Provide researchers with evidence of the societal impact
++ Sharpen communications strategy
++ Policy documents as indicators of broader impact
++ Monitoring progress against a comparator group of institutions
+
+Question from audience: What are communicating to researchers about where to publish
+
+Answer: We aren’t. We are helping with quantity and discoverability, but academic freedom is important to us.
+
+Notetaker: Good :)
+
+
+
 ____
 #### Nota Bene
 
