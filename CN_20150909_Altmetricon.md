@@ -1,4 +1,4 @@
-# Altmetricon #
+Ôªø# Altmetricon #	
 *London*
 
 ## Wednesday, 9 September 2015##
@@ -6,10 +6,10 @@
 ### Welcome
 *Euan Adie, Founder*
 
-What weíve learned from trying to measure impact
+What we‚Äôve learned from trying to measure impact
 
-+ You probably canít measure impact
-+ Alt metrics = a bad name; not alternative and not really ëmeasuringí or judging quantitatively
++ You probably can‚Äôt measure impact
++ Alt metrics = a bad name; not alternative and not really ‚Äòmeasuring‚Äô or judging quantitatively
 
 Easy for people to conflate different aspects:
 
@@ -30,15 +30,15 @@ Discussing large-scale consultation and research done with HEFCE / LSE regarding
 
 Findings:
 
-+ Contested across the sector (majority of 153 responses ëscepticalí about the use of metrics for measuring (quality of) research)
++ Contested across the sector (majority of 153 responses ‚Äòsceptical‚Äô about the use of metrics for measuring (quality of) research)
 + Academics felt they were an imposed black box, the gathering methodology unknown to them
 + Peer review, despite limitations, had widespread support, particularly in Arts and Humanities
 
-**ìInappropriate indicators create perverse incentivesî.**
+**‚ÄùInappropriate indicators create perverse incentives‚Äù.**
 
 +Legitimate questions about gaming the system, self-citation and disadvantaged groups (ECRs)
 
-**ìResponsible Metricsî**
+**‚ÄùResponsible Metrics‚Äù**
 
 + Robustness
 + Humility
@@ -52,7 +52,7 @@ Findings:
   + Only 3 HEIs have signed up to DORA (Declaration on Research Assessment)
   + Promotion and Hiring Panels need explicit declarations of how such metrics are used
 + Research managers should champion these principles and show how metrics will be used
-+ Researchers should be mindful of limitations of particular indicators in their CVs and in evaluations of other colleagueís work
++ Researchers should be mindful of limitations of particular indicators in their CVs and in evaluations of other colleague‚Äôs work
 
 Notetaker: Number #3 very important and so easy!
 
@@ -71,7 +71,7 @@ Notetaker: Rio Journal and Figshare help
 
 The community needs a mechanism to carry forward this agenda.  Proposes a Forum for Responsible Metrics.
 
-Also an annual ëBad Metricí award (please let responsiblemetrics.org if you see any really bad examples!)
+Also an annual ‚ÄòBad Metric‚Äô award (please let responsiblemetrics.org if you see any really bad examples!)
 
 ### Funder (Really Wellcome Trust, speaker admits) Approaches to Altmetrics
 *Adam Dinsmore, Evaluation Officer, Wellcome Trust*
@@ -104,7 +104,7 @@ Altmetrics will help with these
 Case Studies
 
 + Measuring Twitter mentions of Wellcome-Trust associated articles
-  + Showed an insight into the impressive influence of an article that ëappeared parochialí long before it was ever formally cited
+  + Showed an insight into the impressive influence of an article that ‚Äòappeared parochial‚Äô long before it was ever formally cited
 + Benchmarking between funders (blogs, Wikipedia, twitter, facebook, etc)
 + Better understanding of scholarly communication. Medium to large correlations (as represented by google scholar) between Mendeley readership and citations
 + Updating PubMed1000 using Altmetric data to give a richer view
@@ -112,11 +112,11 @@ Case Studies
 Two recurrent Observations
 
 + Links between grants and citeable items still difficult to establish
-+ ëIndicators can only meet their potentialí if in interoperable infrastructure
++ ‚ÄòIndicators can only meet their potential‚Äô if in interoperable infrastructure
 
 WellcomeTrust now mandates (not ABSOLUTELY mandatory...) ORCID ideas to link grants and outputs for analysis
 
-Helps avoid ëWellcome Trust did not fund this studyí acknowledgements (snickers from audience)
+Helps avoid ‚ÄòWellcome Trust did not fund this study‚Äô acknowledgements (snickers from audience)
 
 ### Researcher Viewpoint
 *Jon Tennant, PhD Imperial College London*
@@ -135,7 +135,7 @@ Four different types of Altmetrics (Roughly)
 
 **Most publishers now employ some sort of altmetric measuring system**
 
-Notetaker: Love the ëability to do sciencey thingsí graph
+Notetaker: Love the ‚Äòability to do sciencey things‚Äô graph
 
 **Scope**
 
@@ -152,11 +152,11 @@ Altmetrics are Essential Tools for ECRS
 
 + Blogging, tweeting, etc
 + How do you measure the success of these?
-+ Part of the ëopen scienceí toolkit for researchers
++ Part of the ‚Äòopen science‚Äô toolkit for researchers
 + Goes beyond traditional measures of impact
 + An integral part of 21st Century science
 
-ìShows you are thinking beyond the academyî
+‚ÄúShows you are thinking beyond the academy‚Äù
 
 Discussing impact factor disease -- name and shame those who use it?
 
@@ -165,7 +165,7 @@ Citation cycle (even in STEM) is not as fast as we need it for job interviews (s
 *Final thoughts*
 
 + Everyone is sceptical
-+ Metrics canít replace peer-reviews
++ Metrics can‚Äôt replace peer-reviews
 + Assessment requires a combination of qualitative and carefully selected quantitative indictors
 + Metrics can be used to compliment narrative descriptions of influences
 (partial list, slow fingers)
@@ -175,7 +175,7 @@ Citation cycle (even in STEM) is not as fast as we need it for job interviews (s
 + Positive correlation between rapid citations and twitter mentions
 + Highly tweeted articles 11x more likely to be cited
 + Positive but weak correlations between altmetrics and citations
-+ Different ëflavoursí of ëimpactí that capture different aspects of tools and audiences
++ Different ‚Äòflavours‚Äô of ‚Äòimpact‚Äô that capture different aspects of tools and audiences
 
 **Altmetrics measuring quality?**
 
@@ -186,7 +186,7 @@ Citation cycle (even in STEM) is not as fast as we need it for job interviews (s
 
 **Discussion**
 
-+ Altmetrics donít solve our problems about assessing impact of research
++ Altmetrics don‚Äôt solve our problems about assessing impact of research
 + But they do help us think more about its societal reach
 + Have to use metrics responsibly
 + Understand realities of academia
@@ -201,7 +201,7 @@ Citation cycle (even in STEM) is not as fast as we need it for job interviews (s
 
 **What is impact?**
 
-ìThe consequences of an action that affect peopleís lives in areas that matter to themî
+‚ÄúThe consequences of an action that affect people‚Äôs lives in areas that matter to them‚Äù
 
 **Altmetric for institutions**
 
@@ -216,14 +216,14 @@ Goals:
 
 + Provide practical support to leverage social media
   + Automated twitter feed
-    + Collection from Research Management System -> RSS -> Twitterfeed to Twitter/Linkedin/Facebook (targeted by school) --> Measure with Altmetric
+    + Collection from Research Management System -> RSS -> Twitterfeed to Twitter/Linkedin/Facebook (targeted by school) ÔÉ† Measure with Altmetric
 + Research methods and impact activities
   + Review of international best practice
   + On going review of Altmetric tool
     + High Impact Journals high score on STEM Altmetric
-    + Poor coverage of A&H because we donít have as many DOIs / output
+    + Poor coverage of A&H because we don‚Äôt have as many DOIs / output
     + Twitter and Mendeley best appearance
-    + Highest Altmetric was Arts ñ Article on Neanderthals (Celtic studies)
+    + Highest Altmetric was Arts ‚Äì Article on Neanderthals (Celtic studies)
     + High correlation between citations and Altmetric activity per channel: Mendeley (81%) and Twitter highest (90%) frequency in highly cited articles, but Mendeley and CiteULike best correlation with citations
   + Analysis of communications training at university
     + College specific brochures to help and streamline this work with researchers
@@ -236,7 +236,7 @@ Goals:
   + Dissemination
   + Impact
       + Citations
-      + Altmetric ìMentionsî
+      + Altmetric ‚ÄúMentions‚Äù
 		+ Aggregate by schools and college and compare to other institutions
 
 **Results**
@@ -249,10 +249,27 @@ Goals:
 
 Question from audience: What are communicating to researchers about where to publish
 
-Answer: We arenít. We are helping with quantity and discoverability, but academic freedom is important to us.
+Answer: We aren‚Äôt. We are helping with quantity and discoverability, but academic freedom is important to us.
 
 Notetaker: Good :)
 
+### Teaching Researchers about Altmetrics
+*William Nixon, Head of Digital Library Services, University of Glasgow*
+
+**Context**
+
++ Web of Science/InCites
++ Journal of Citation Reports
++ Journal and country Rankings
++ Google Scholar
++ IRUS-UK / Downloads
++ Metrics Tide
+
+And
+
++ Open Access
++ Funders
++ REF
 
 
 ____
@@ -263,4 +280,5 @@ ____
 <a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a>
 
 ***Taken Live and should not be considered a definitive or complete record
+
 
